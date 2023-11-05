@@ -1,0 +1,5 @@
+# ninja log v5
+2	86	7207645832452951	CMakeFiles/learnC.dir/main.cpp.obj	92c11bae13af8bbb
+76	179	7207654505703901	learnC.exe	eb8aa0f24daf1190
+3	75	7207654504713886	CMakeFiles/learnC.dir/hcn.cpp.obj	18a362d1b14700bd
+1	115	7208666490355322	build.ninja	658ef0c634dcfbd3
